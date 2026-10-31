@@ -3,9 +3,9 @@
 
 ## 📌 About the Project
 
-CheckIT is an AI-powered knowledge base designed to help companies centralize, manage, and maintain their internal knowledge. It automatically builds a structured knowledge base from company documents and keeps it updated using information from Outlook emails and Microsoft Teams conversations.
+CheckIT is designed to help companies centralize, manage, and maintain their internal knowledge. It automatically builds a structured knowledge base from company documents and keeps it updated using information from Outlook emails and Microsoft Teams conversations.
 
-Our main goal is to ensure that valuable information is never lost, even when experienced employees leave the company.
+The main goal is to ensure that valuable information is never lost, even when experienced employees leave the company.
 
 ## ❗ The Problem
 
