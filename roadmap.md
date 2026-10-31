@@ -1,0 +1,17 @@
+# Roadmap
+- [x] Cloud, auth, roles, tables, storage
+- [x] Design system + landing + app shell
+- [x] Document upload + AI extraction pipeline
+- [x] Products list/detail timeline, editing
+- [x] Search + Ask AI
+- [x] Team page
+- [x] Mock Outlook inbox + Teams channels (demo colleagues, compose, AI findings review)
+- [x] End-to-end check; temp test user removed
+- [x] No-login demo access (shared demo account)
+- [x] Search & Ask AI also cover Outlook emails and Teams messages
+- [ ] Later (optional): connect real Outlook/Teams accounts
+- [x] Ask AI gives solutions from emails, past changes and documents (past changes are a citable source)
+- [x] Reminders when content is due to be renewed
+- [x] Romanian 2-min pitch deck (PPTX for Canva import)
+- [x] Restored "Use a real account" + sign-in page (after briefly removing them)
+- [x] "Who to ask" page: company hierarchy of people who can guide with more info
