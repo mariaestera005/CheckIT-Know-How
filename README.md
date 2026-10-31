@@ -3,7 +3,7 @@
 
 ## 📌 About the Project
 
-CheckIT is designed to help companies centralize, manage, and maintain their internal knowledge. It automatically builds a structured knowledge base from company documents and keeps it updated using information from Outlook emails and Microsoft Teams conversations.
+CheckIT is a web platform for centralized document management and organizational knowledge. It helps teams organize and track documents, manage products and changes, search information across documents, emails, and Teams messages and get AI-powered answers.
 
 The main goal is to ensure that valuable information is never lost, even when experienced employees leave the company.
 
