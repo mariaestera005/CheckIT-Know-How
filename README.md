@@ -53,7 +53,7 @@ Its main advantages are:
 
 CheckIT works in the background, allowing teams to focus on their priorities instead of spending time maintaining documentation.
 
-## 🔗 CheckIT vs. MCP
+## 🔗 CheckIT and MCP
 
 While MCP (Model Context Protocol) allows AI systems to connect to external tools and data sources, CheckIT goes a step further by focusing on how company knowledge is organized, updated, and preserved. MCP provides a standardized way to access information, but it does not inherently maintain a structured knowledge base or track changes over time. CheckIT addresses these needs by automatically identifying updates from Outlook and Microsoft Teams, preserving a complete history of modifications, and providing AI-powered answers with cited sources. Rather than simply connecting AI to existing information, CheckIT aims to transform scattered company data into a reliable, continuously updated knowledge base.
 
