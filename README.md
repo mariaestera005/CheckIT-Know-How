@@ -78,8 +78,7 @@ Run tests:
 ```sh
 bunx vitest run
 ```
-
 ## Built with
-
 TanStack Start, React, TypeScript, Tailwind CSS, Lovable Cloud, Lovable AI.
+
 =======
